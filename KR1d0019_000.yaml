@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1d0019/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部四
+  hash: sha256:753fed3570de885feea2655f2afda2dcac3de78d0edd6607684749ed59d8b745
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1d0019_WYG_000-1a, image: WYG0100/WYG0100-0001a.png}
+body:
+  text: 周禮述注禮類一周禮之屬提要臣等謹案周禮述注二十四卷國朝李光坡撰光坡字耜卿號茂夫安溪人大學士光地之弟也杭世駿榕城詩話稱其家居不仕潛心經學著有三禮述注此即其一也其書取注疏之文刪繁舉要以著訓詁之源又旁採諸家參以己意以闡制作之義雖於鄭賈名物度數之文多所刋削而析理明通措詞簡要頗足為初學之津梁考其兄光地榕村集中有周官筆記一卷皆標舉要義不以考證辨難為長其姪鍾倫亦有周禮纂訓與光坡此書體例相近蓋其家學如是也宋儒喜談三代故講周禮者恆多又鑒於熙寧之新法故恆牽引末代弊政支離詰駁於注疏多所攻擊議論盛而經義反淆光坡此書不及漢學之博奧亦不至如宋學之蔓衍平心靜氣務求理明而詞達於說經之家亦可謂適中之道矣乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:53e1d4519bde78528b1e575600ef2607615ff20d8538d2582e2a5ca2298fd741
+metadata:
+  title: 周禮述註
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:08:09.473566'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR1d0019/KR1d0019_000.txt
+hash: sha256:36c019f5da86fa6fd7dced5e338c868f28bbc868fa94dbbfd01c16c80b85e4c6
